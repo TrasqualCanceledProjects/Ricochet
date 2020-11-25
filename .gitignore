@@ -9,6 +9,9 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Aa]ssets/Standard Assets/
+/[Aa]ssets/SineVFX/
+/[Aa]ssets/SampleScenes/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
